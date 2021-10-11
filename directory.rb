@@ -1,0 +1,8 @@
+puts "The students of Villians Acadamy"
+puts "--------------------------------"
+puts "Dr. Evil"
+puts "MiniMe"
+puts "Scott Evil"
+puts "Nurse Ratchet"
+puts "Octopussy"
+puts "Joker"
