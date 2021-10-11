@@ -1,9 +1,20 @@
 students = ["Dr. Evil", "MiniMe", "Scott Evil",
 "Nurse Ratchet", "Octopussy", "Joker"]
-
+def print_header
 puts "The students of Villians Acadamy"
 puts "--------------------------------"
-students.each do |student|
-    puts student
 end
-print "We have #{students.count} very evil students!"
+
+def print(names)
+  names.each do |name|
+    puts name
+  end
+end
+
+def print_footer(names)
+  puts "We have #{names.count} very evil students!"
+end
+print_header
+print(students)
+print_footer(students)
+
