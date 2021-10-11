@@ -6,4 +6,8 @@ puts "Scott Evil"
 puts "Nurse Ratchet"
 puts "Octopussy"
 puts "Joker"
-print "We have 6 very evil students!"
+print "We have"
+#amount of students 
+print "6" 
+#what kind of students
+print"very evil students!"
